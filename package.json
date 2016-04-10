@@ -1,6 +1,6 @@
 {
   "name": "@jazeee/jazeee-how-to-npm-workshopper",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Jaz running through NodeSchool workshopper for how-to-npm",
   "main": "index.js",
   "scripts": {
