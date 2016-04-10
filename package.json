@@ -16,8 +16,11 @@
     "url": "https://github.com/jazeee/nodeschool-how-to-npm/issues"
   },
   "homepage": "https://github.com/jazeee/nodeschool-how-to-npm#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "how-to-npm": "^2.0.0"
+  },
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   }
 }
