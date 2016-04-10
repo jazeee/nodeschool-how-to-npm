@@ -1,0 +1,22 @@
+{
+  "name": "jazeee-how-to-npm-workshopper",
+  "version": "1.0.0",
+  "description": "Jaz running through NodeSchool workshopper for how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazeee/nodeschool-how-to-npm.git"
+  },
+  "author": "jazeee",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jazeee/nodeschool-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jazeee/nodeschool-how-to-npm#readme",
+  "devDependencies": {
+    "how-to-npm": "^2.0.0"
+  }
+}
