@@ -4,7 +4,7 @@
   "description": "Jaz running through NodeSchool workshopper for how-to-npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -16,9 +16,8 @@
     "url": "https://github.com/jazeee/nodeschool-how-to-npm/issues"
   },
   "homepage": "https://github.com/jazeee/nodeschool-how-to-npm#readme",
-  "devDependencies": {
-    "@linclark/pkg": "^1.0.2",
-    "how-to-npm": "^2.0.0"
-  },
-  "dependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
