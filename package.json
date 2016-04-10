@@ -4,7 +4,7 @@
   "description": "Jaz running through NodeSchool workshopper for how-to-npm",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/coffee test.coffee"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -16,10 +16,7 @@
     "url": "https://github.com/jazeee/nodeschool-how-to-npm/issues"
   },
   "homepage": "https://github.com/jazeee/nodeschool-how-to-npm#readme",
-  "devDependencies": {
-    "coffee-script": "^1.10.0",
-    "how-to-npm": "^2.0.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
   }
